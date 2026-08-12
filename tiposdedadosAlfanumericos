@@ -1,0 +1,2 @@
+alfanumericos = "GRUPOFALI2026"
+print(type(alfanumericos))

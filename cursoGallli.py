@@ -3,4 +3,7 @@ print("testando o Sistema git2")
 print("testando o Sistema git3")
 print("testando o Sistema git4")
 print("testando o Sistema git5")
+<<<<<<< HEAD
 print("testando o Sistema git6")
+=======
+print("testando o sistema git6")
